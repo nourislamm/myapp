@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "5UekAHnWfKDPePBSttzxPvVO/ZY=",
+			"path": "github.com/common-nighthawk/go-figure",
+			"revision": "67e0ed34491ae997c83c5aa2a1cae2cfd4b4ac41",
+			"revisionTime": "2019-05-29T16:55:35Z"
+		}
+	],
+	"rootPath": "myapp2-master"
+}
