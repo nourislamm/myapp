@@ -5,6 +5,7 @@ A sample go app
 
 Dockerfile contents:
 
+```
 # Base container image
 FROM golang:1.8-alpine AS builder
 # Using Alpine's apk tool, install git which
@@ -25,3 +26,4 @@ FROM scratch
 COPY --from=builder /go/src/app/myapp /
 # Run the app
 CMD [ "/myapp" ]
+```
