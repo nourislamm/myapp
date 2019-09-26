@@ -1,3 +1,3 @@
-# myapp2
+# myapp
 
 A sample go app 
