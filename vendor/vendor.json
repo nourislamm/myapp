@@ -1,13 +1,20 @@
+  
 {
-	"comment": "",
+	"comment": "A sample go app with deps",
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "5UekAHnWfKDPePBSttzxPvVO/ZY=",
-			"path": "github.com/common-nighthawk/go-figure",
-			"revision": "67e0ed34491ae997c83c5aa2a1cae2cfd4b4ac41",
-			"revisionTime": "2019-05-29T16:55:35Z"
+			"checksumSHA1": "F7vsuKOVSMnFSi90odRxfhBEBeA=",
+			"path": "github.com/lib/pq",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
+		},
+		{
+			"checksumSHA1": "ATnwV0POluBNQEMjPdylodz0oK0=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "d34b9ff171c21ad295489235aec8b6626023cd04",
+			"revisionTime": "2018-03-27T07:18:24Z"
 		}
 	],
-	"rootPath": "myapp2-master"
+	"rootPath": "myapp"
 }
